@@ -35,9 +35,9 @@ Here are some projects I've worked on:
 ## Connect with Me
 
 - [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
-- [Personal Website/Blog](Your Website/Blog Link)
-- [Email](Your Email Address)
+- [Twitter](https://twitter.com/ShlokDhakrey)
+- [Personal Website/Blog](https://dhakrey.in)
+- [Email](mailto:shlok@dhakrey.in)
 
 ## GitHub Stats and More
 
@@ -49,7 +49,6 @@ Here are some projects I've worked on:
 
 ## GitHub Extra Pins
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShlokDhakrey&repo=ShlokDhakrey&theme=radical)](https://github.com/YourGitHubUsername/RepoName)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShlokDhakrey&repo=PSA-Website-Bypass-Workers&theme=radical)](https://github.com/YourGitHubUsername/RepoName2)
 
-⭐️ From [Shlok Dhakrey](https://github.com/ShlokDhakrey))
+⭐️ From [Shlok Dhakrey](https://github.com/ShlokDhakrey)
