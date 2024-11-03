@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Shlok Dhakrey]! 👋</h1>
+<h1 align="center">Hi there, I'm Shlok Dhakrey!</h1>
 
 ## GitHub Stats
 
@@ -7,30 +7,17 @@
  ## Contribution
 ![Your GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=ShlokDhakrey&theme=github_dark_dimmed)
 
- ## Languages
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShlokDhakrey&layout=compact&theme=github_dark_dimmed)](https://github.com/ShlokDhakrey)
-
- 
- ## Top Repositeries
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShlokDhakrey&repo=PSA-Website-Bypass-Workers&theme=github_dark_dimmed)](https://github.com/ShlokDhakrey/PSA-Website-Bypass-Workers)
-
-
 ## Skills
 
-- **Programming Languages:** JavaScript, Python
-- **Tools & Technologies:** HTML, CSS (with Tailwind CSS)
-- **Other Skills:** Git, Responsive Web Design
-
-
- 
+- **Programming Languages:** JavaScript
 
 ## Connect with Me
 
-- LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/shlokdhakrey)
 - [Twitter](https://twitter.com/ShlokDhakrey)
 - [Personal Website/Blog](https://dhakrey.in)
 - [Email](mailto:shlok@dhakrey.in)
+- [Instagram](https://instagram.com/dhakr3y)
 
  
  
